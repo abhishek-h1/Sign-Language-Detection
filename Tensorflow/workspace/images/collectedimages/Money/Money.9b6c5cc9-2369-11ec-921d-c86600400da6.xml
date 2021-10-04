@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Money</folder>
+	<filename>Money.9b6c5cc9-2369-11ec-921d-c86600400da6.jpg</filename>
+	<path>C:\Users\abhis\Documents\GitHub\Sign-Language-Detection\Tensorflow\workspace\images\collectedimages\Money\Money.9b6c5cc9-2369-11ec-921d-c86600400da6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Money</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>206</ymin>
+			<xmax>294</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>
