@@ -1,0 +1,28 @@
+item { 
+	name:'Telephone'
+	id:1
+}
+item { 
+	name:'ILoveYou'
+	id:2
+}
+item { 
+	name:'Family'
+	id:3
+}
+item { 
+	name:'Yes'
+	id:4
+}
+item { 
+	name:'No'
+	id:5
+}
+item { 
+	name:'Money'
+	id:6
+}
+item { 
+	name:'Help'
+	id:7
+}
